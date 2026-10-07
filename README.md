@@ -1,2 +1,3 @@
-# ai-nail-art-tool-final3
-ee
+# ai-nail-art-tool
+
+[![Open in Bolt](https://bolt.new/static/open-in-bolt.svg)](https://bolt.new/~/sb1-pkixnaud)
